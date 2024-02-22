@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sheikh Zain Jaffer.</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🌱 I’m currently learning Mern Stack Development | Ex-Weblinx solutions Intern | Voice-over actor,**
+- 🌱 I’m currently learning Mern Stack Development | Ex-Weblinx solutions Intern | Voice-over actor.
 
 - 📫 How to reach me **zainjsheikh4@gmail.com**
 
